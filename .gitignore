@@ -29,3 +29,50 @@ npm-debug.log*
 /ionic-app/platforms
 /ionic-app/plugins
 /ionic-app/www
+
+# Miscellaneous
+/flutter_app/*.class
+/flutter_app/*.log
+/flutter_app/*.pyc
+/flutter_app/*.swp
+/flutter_app/.DS_Store
+/flutter_app/.atom/
+/flutter_app/.buildlog/
+/flutter_app/.history
+/flutter_app/.svn/
+
+# IntelliJ related
+/flutter_app/*.iml
+/flutter_app/*.ipr
+/flutter_app/*.iws
+/flutter_app/.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+/flutter_app/.dart_tool/
+/flutter_app/.flutter-plugins
+/flutter_app/.flutter-plugins-dependencies
+/flutter_app/.packages
+/flutter_app/.pub-cache/
+/flutter_app/.pub/
+/flutter_app/build/
+
+# Web related
+/flutter_app/lib/generated_plugin_registrant.dart
+
+# Symbolication related
+/flutter_app/app.*.symbols
+
+# Obfuscation related
+/flutter_app/app.*.map.json
+
+# Android Studio will place build artifacts here
+/flutter_app/android/app/debug
+/flutter_app/android/app/profile
+/flutter_app/android/app/release
